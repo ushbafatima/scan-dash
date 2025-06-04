@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ScanDash-DBProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ScanDash_DBProject_jar</output-path>
+    <root id="archive" name="ScanDash-DBProject.jar">
+      <element id="module-output" name="ScanDash-DBProject" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Java Libraries/postgresql-42.7.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Java Libraries/FYB44F5IUKER3DT.zip" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Java Libraries/jSerialComm-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/formdev/flatlaf/3.5.4/flatlaf-3.5.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Java Libraries/jfreechart-1.5.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
